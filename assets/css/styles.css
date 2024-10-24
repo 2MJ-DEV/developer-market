@@ -1,0 +1,16 @@
+.hero {
+    /* background-image: url('chemin/vers/ton/image.jpg'); Remplace par le chemin de ton image */
+    background-size: cover;
+    background-color: #FFFFFF;
+    background-position: center;
+    height: 92vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    /* color: rgb(110, 85, 85); */
+}
+
+/* *{
+    outline: 1px solid rebeccapurple;
+} */
