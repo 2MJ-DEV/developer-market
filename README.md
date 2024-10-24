@@ -5,7 +5,6 @@
 ## Fonctionnalités
 
 - **Catalogue de produits** : Explorez une vaste collection de templates, de bibliothèques de code, de UI kits, et plus encore.
-- **Tableau de bord vendeur** : Vendez vos propres créations et gérez vos produits, ventes, et interactions avec les clients.
 - **Filtrage avancé** : Trouvez rapidement les ressources qui vous conviennent grâce à des filtres et un moteur de recherche performant.
 - **Section open-source** : Partagez et collaborez sur des projets open-source avec d'autres développeurs.
 - **Communauté** : Discutez et échangez des idées avec d'autres développeurs via notre forum.
