@@ -12,7 +12,7 @@
 
 ## Technologies
 
-- **Frontend** : [React](https://reactjs.org/) + [Tailwind CSS](https://tailwindcss.com/) pour une interface utilisateur rapide et responsive.
+- **Frontend** : [React](https://reactjs.org/) + [Bootstrap 5](https://getbootstrap.com/) pour une interface utilisateur rapide et responsive.
 - **Backend** : [Node.js](https://nodejs.org/) avec [Express](https://expressjs.com/) pour la gestion des données.
 - **Base de données** : [PostgreSQL](https://www.postgresql.org/) ou [MySQL](https://www.mysql.com/).
 - **Paiements** : Intégration de [Stripe](https://stripe.com/) pour gérer les transactions en toute sécurité.
